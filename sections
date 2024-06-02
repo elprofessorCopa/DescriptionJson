@@ -3,21 +3,21 @@
       "title": "Special offers",
       "items": [
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im1.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im1.jpg",
           "title": "Hot corn chaat",
           "description": "Spicy and tangy corn",
           "isFavorite": true,
           "rating": 4
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im2.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im2.jpg",
           "title": "Thai pepper chicken",
           "description": "Spicy Thai chicken",
           "isFavorite": false,
           "rating": 5
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im3.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im3.jpg",
           "title": "Chicken Manchurian",
           "description": "Delicious chicken dish",
           "isFavorite": true,
@@ -29,21 +29,21 @@
       "title": "Popular Food",
       "items": [
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im4.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im4.jpg",
           "title": "Mushroom soup",
           "description": "Creamy mushroom soup",
           "isFavorite": false,
           "rating": 4
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im5.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im5.jpg",
           "title": "Mutton brain",
           "description": "Exotic dish",
           "isFavorite": true,
           "rating": 2
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im6.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im6.jpg",
           "title": "Baby corn Manchurian",
           "description": "Tasty corn dish",
           "isFavorite": false,
@@ -55,21 +55,21 @@
       "title": "Italian recipes",
       "items": [
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im7.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im7.jpg",
           "title": "Pasta Carbonara",
           "description": "Classic Italian pasta",
           "isFavorite": true,
           "rating": 5
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im8.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im8.jpg",
           "title": "Lasagna",
           "description": "Cheesy and delicious",
           "isFavorite": false,
           "rating": 4
         },
         {
-          "imagePath": "https://raw.githubusercontent.com/elprofessorCopa/DescriptionJson/master/images/im9.jpg",
+          "imagePath": "https://github.com/elprofessorCopa/DescriptionJson/blob/master/im9.jpg",
           "title": "Margherita Pizza",
           "description": "Classic pizza",
           "isFavorite": true,
