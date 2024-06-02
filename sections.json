@@ -1,0 +1,81 @@
+[
+    {
+      "title": "Special offers",
+      "items": [
+        {
+          "imagePath": "assets/images/im1.jpg",
+          "title": "Hot corn chaat",
+          "description": "Spicy and tangy corn",
+          "isFavorite": true,
+          "rating": 4
+        },
+        {
+          "imagePath": "assets/images/im2.jpg",
+          "title": "Thai pepper chicken",
+          "description": "Spicy Thai chicken",
+          "isFavorite": false,
+          "rating": 5
+        },
+        {
+          "imagePath": "assets/images/im3.jpg",
+          "title": "Chicken Manchurian",
+          "description": "Delicious chicken dish",
+          "isFavorite": true,
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "title": "Popular Food",
+      "items": [
+        {
+          "imagePath": "assets/images/im4.jpg",
+          "title": "Mushroom soup",
+          "description": "Creamy mushroom soup",
+          "isFavorite": false,
+          "rating": 4
+        },
+        {
+          "imagePath": "assets/images/im5.jpg",
+          "title": "Mutton brain",
+          "description": "Exotic dish",
+          "isFavorite": true,
+          "rating": 2
+        },
+        {
+          "imagePath": "assets/images/im6.jpg",
+          "title": "Baby corn Manchurian",
+          "description": "Tasty corn dish",
+          "isFavorite": false,
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "title": "Italian recipes",
+      "items": [
+        {
+          "imagePath": "assets/images/im7.jpg",
+          "title": "Pasta Carbonara",
+          "description": "Classic Italian pasta",
+          "isFavorite": true,
+          "rating": 5
+        },
+        {
+          "imagePath": "assets/images/im8.jpg",
+          "title": "Lasagna",
+          "description": "Cheesy and delicious",
+          "isFavorite": false,
+          "rating": 4
+        },
+        {
+          "imagePath": "assets/images/im9.jpg",
+          "title": "Margherita Pizza",
+          "description": "Classic pizza",
+          "isFavorite": true,
+          "rating": 4
+        }
+      ]
+    }
+  ]
+  
